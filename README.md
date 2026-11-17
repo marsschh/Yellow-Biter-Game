@@ -1,2 +1,2 @@
 # Yellow-Biter-Game
-Yellow Biter Game for Game Final Project in college
+THIS GAME IS MADE FOR 1ST SEMESTER FINAL PROJECT IN COLLEGE, THE GROUP MADE A GAME AS FANMADE.
